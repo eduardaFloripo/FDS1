@@ -3,6 +3,6 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("Oi, professor!");
         System.out.println("Atualizando");
-        //teste
+        //comentario da alteracao2
     }
 }
